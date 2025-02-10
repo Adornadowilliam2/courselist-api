@@ -404,7 +404,7 @@ export default function handler(req, res) {
       price: "₱8,300",
       duration: "48 Hours",
       link: "https://courselist.mfi.org.ph/courses/1524",
-      duration: "https://i.ytimg.com/vi/c6V8EKrJX28/maxresdefault.jpg"
+      image: "https://i.ytimg.com/vi/c6V8EKrJX28/maxresdefault.jpg"
     },
     {
       id: 48,
