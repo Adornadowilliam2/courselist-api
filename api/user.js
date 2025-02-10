@@ -108,6 +108,105 @@ export default function handler(req, res) {
       duration:"40 Hours",
       link:"https://courselist.mfi.org.ph/courses/3083",
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdjB1Pczp2-eJIRFbyzxOxFd5eGnysESIV3Ont6QnMfLOTgEf"
+    },
+    {
+      id:15,
+      name:"Basic CAD/CAM",
+      description:"he Basic CADCAM course introduces participants to the foundational principles and techniques of Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM). This course provides an understanding of essential CAD design tools, modeling methods, and CAM processes used in creating and manufacturing precision components. Through hands-on exercises, students will learn to create, modify, and optimize digital designs for real-world manufacturing applications, gaining practical skills that bridge design and production.",
+      price:"₱5,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/62",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVJ6X5theDmDdGihLKAyNZZBUXaaKV2Zfvw&s"
+    },
+    {
+      id:16,
+      name:'Basic Car Maintenance',
+      description:"This course provides essential knowledge and skills for performing routine car maintenance. Participants will learn about various vehicle systems, including engines, brakes, tires, and fluids. The training emphasizes practical skills, such as oil changes, tire rotations, and brake inspections. By the end of the course, students will understand the importance of regular maintenance, how to identify potential issues, and gain confidence in performing basic automotive tasks, ensuring safe and reliable vehicle operation.",
+      price:"₱5,000",
+      duration:"32 Hours",
+      link:'https://courselist.mfi.org.ph/courses/22',
+      image:"https://app.mfi.org.ph/uploads/?type=banner&id=22"
+    },
+    {
+      id:17,
+      name:"Basic Gas Metal Arc Welding",
+      description:"This course introduces participants to the fundamentals of gas metal arc welding (GMAW), commonly known as MIG welding. Students will learn about the principles of GMAW, equipment setup, and welding techniques. The curriculum includes hands-on practice, enabling learners to weld various materials and thicknesses. By the end of the course, participants will be equipped to perform basic MIG welding tasks safely and effectively, laying the groundwork for more advanced welding techniques. ",
+      price:"₱10,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/1722",
+      image:"https://i.ytimg.com/vi/aWIxotekoXw/sddefault.jpg"
+    },
+    {
+      id:18,
+      name:"Basic Shielded Metal Arc Welding",
+      description:'This course provides an introduction to shielded metal arc welding (SMAW), commonly known as stick welding. Participants will learn the fundamentals of SMAW, including equipment setup, electrode selection, and welding techniques. The course emphasizes hands-on practice, allowing participants to perform basic welding tasks on various materials. By the end of the course, participants will have the skills necessary to execute fundamental SMAW processes safely and effectively. ',
+      price:"₱10,000",
+      duration:"40 Hours",
+      link:'https://courselist.mfi.org.ph/courses/1719',
+      image:" https://i.ytimg.com/vi/I1P5GuVHFQA/maxresdefault.jpg"
+    },
+    {
+      id:19,
+      name:"Basics Of Industrial Automation (Sensorics And FICS)",
+      description:"This course offers an essential foundation in industrial automation, focusing on integrating sensors, control systems, and automation technologies used in modern industrial settings. Participants will explore the principles of industrial sensors, control circuit design, programmable logic controllers (PLCs), and electro-pneumatics. Through hands-on activities, participants will learn to implement, maintain, and troubleshoot automation systems while ensuring system safety and efficiency.",
+      price:"₱11,000",
+      duration:"70 Hours",
+      link:"https://courselist.mfi.org.ph/courses/3244",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6qnEDjXePB4r8C4Feewd1cQjvyMiBVeOuQ&s"
+    },
+    {
+      id:20,
+      name:"Big Data Analytics Using Spark (Programming)",
+      description:"This course covers the fundamentals of Big Data using Spark. Spark is a “fast cluster computing framework” for Big Data Processing. Participants will be exposed to various libraries in Spark for Data Processing and Machine Learning with various datasets. ",
+      price:"₱18,956",
+      duration:"16 Hours",
+      link:"https://courselist.mfi.org.ph/courses/3000",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFY8ctx5wz-yML908H4QhDasNk0xiymZdFBw&s"
+    },
+    {
+      id:21,
+      name:'Building Wiring Installation And Maintenance',
+      description:"The Building Wiring Installation and Maintenance Training course provides participants with comprehensive knowledge and practical skills required for safe and efficient electrical wiring systems in residential, commercial, and industrial buildings. Participants will learn fundamental principles, regulations, and best practices in building wiring, enabling them to plan, install, troubleshoot, and maintain electrical systems effectively. ",
+      price:"₱9,000",
+      duration:"64 Hours",
+      link:"https://courselist.mfi.org.ph/courses/56",
+      image:"https://github.com/Adornadowilliam2/mfi-media/blob/master/Screenshot%202025-02-10%20at%2010-39-18%20MFI%20Polytechnic%20Institute%20Inc.%20Online%20Course%20List%20Beyond%20Skills%20A%20Better%20Life.png?raw=true"
+    },
+    {
+      id:22,
+      name:"BUILDING WIRING INSTALLATION AND MAINTENANCE (ORANGE AMBER INC.)",
+      description:"The Building Wiring Installation and Maintenance course by Orange Amber Inc. focuses on equipping students with the essential skills for installing, maintaining, and troubleshooting electrical wiring systems in residential, commercial, and industrial buildings. The course covers topics such as electrical safety, wiring diagrams, circuit installations, power distribution, and maintenance techniques. Students will gain hands-on experience, ensuring they are prepared for real-world challenges in electrical wiring and maintenance. Ideal for aspiring electricians, this course prepares participants for work in various building environments while emphasizing industry standards and safety protocols.",
+      price:"₱10,384",
+      duration:"60 Hours",
+      link:"https://courselist.mfi.org.ph/courses/3189",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSihM3w61QN0CSgsuz7jWZetSJGtJQMH4enTg&s"
+    },
+    {
+      id:23,
+      name:"BUILDING WIRING INSTALLATION AND MAINTENANCE (PASAY BRANCH)",
+      description:"This module deals with the understanding of light and power circuits in residential/commercial units. It includes topics regarding wiring systems, lighting systems, power wiring systems, PEC regulations on light and power wiring systems. Laboratory activities are provided to verify, and practice learnedprinciples. ",
+      price:"₱8,500",
+      duration:"60 Hours",
+      link:"https://courselist.mfi.org.ph/courses/1500",
+      image:"https://douglaselectric.us/wp-content/uploads/2022/07/electrical-preventative-maintenance.jpg"
+    },
+    {
+      id:24,
+      name:"Calibration For Process Instrumentation (CPI)",
+      description:"This course provides essential training in the calibration of process instrumentation used in various industries. Participants will learn about different types of instruments, calibration techniques, and standards. The course emphasizes hands-on experience, enabling students to perform calibrations accurately and understand the importance of maintaining instrument accuracy for process efficiency. By the end of the course, students will be equipped to ensure compliance with industry standards and improve overall process reliability. ",
+      price:"₱9,500",
+      duration:"35 Hours",
+      link:'https://courselist.mfi.org.ph/courses/35',
+      image:"https://github.com/Adornadowilliam2/mfi-media/blob/master/Screenshot%202025-02-10%20at%2010-47-01%20MFI%20Polytechnic%20Institute%20Inc.%20Online%20Course%20List%20Beyond%20Skills%20A%20Better%20Life.png?raw=true"
+    },
+    {
+      id:25,
+      name:"CCNAv7: Enterprise Networking, Security, And Automation",
+      description:"CCNAv7: Enterprise Networking, Security, and Automation (ENSA) describes the architecture, components, operations, and security to scale for large, complex networks, including wide area network (WAN) technologies. The course emphasizes network security concepts and introduces network virtualization and automation. Students learn how to configure, troubleshoot, and secure enterprise network devices and understand how application programming interfaces (API) and configuration management tools enable network automation. ",
+      price:"₱9,500",
+      duration:'70 Hours',
+      link:"https://courselist.mfi.org.ph/courses/2601",
+      image:"https://github.com/Adornadowilliam2/mfi-media/blob/master/Screenshot%202025-02-10%20at%2010-48-41%20MFI%20Polytechnic%20Institute%20Inc.%20Online%20Course%20List%20Beyond%20Skills%20A%20Better%20Life.png?raw=true"
     }
   ] 
   res.status(200).json(courseList);
