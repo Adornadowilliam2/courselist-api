@@ -423,6 +423,76 @@ export default function handler(req, res) {
       duration: "108 Hours",
       link: "https://courselist.mfi.org.ph/courses/1503",
       image: "https://www.electricaltechnology.org/wp-content/uploads/2012/11/Automatic-UPS-Inverter-System-Wiring-Diagram-for-Home-or-Office-using-one-Live-Wire-390x220.png"
+    },
+    {
+      id: 50,
+      name: "Electro-Hydraulic Industrial Control",
+      description: "This course provides an in-depth exploration of electro-hydraulic systems used in industrial control applications. It covers the principles, components, and control strategies associated with hydraulic systems integrated with electrical control mechanisms. Participants will gain hands-on experience in designing, analyzing, and troubleshooting electro-hydraulic systems, preparing them for practical applications in manufacturing, automotive, aerospace, and other industries. ",
+      price: "₱7,000",
+      duration: "21 Hours",
+      link: "https://courselist.mfi.org.ph/courses/1703",
+      image: "https://www.axcontrol.com/blog/wp-content/uploads/2022/12/AXControlInc-194907-Electro-Hydraulic-Control-blogbanner1.jpg"
+    },
+    {
+      id: 51,
+      name: "Electro-Pneumatics (EP)",
+      description: "This course deals with the study of the design, function and applications of various electro-pneumatic elements commonly used in industry. It presents the different electro-pneumatic symbols and explains how they are used in schematic diagrams in accordance with ANSI, DIN and ISO standards. Sufficient time is allocated for hands-on exercises to achieve hook-up and troubleshooting skills. ",
+      price: "₱7,250",
+      duration: "28 Hours",
+      link: "https://courselist.mfi.org.ph/courses/2839",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlMMb0wBzJn3rcr7ATm4thqROZV21AHpvZQ&s"
+    },
+    {
+      id: 52,
+      name: "ELECTRO-PNEUMATICS (PASAY BRANCH)",
+      description: "This course deals with the study of the design, function and applications of various electro-pneumatic elements commonly used in industry. It presents the different electro-pneumatic symbols and explains how they are used in schematic diagrams in accordance with ANSI, DIN and ISO standards. Sufficient time is allocated for hands-on exercises to achieve hook-up and troubleshooting skills. ",
+      price: "₱6,500",
+      duration: "30 Hours",
+      link: "https://courselist.mfi.org.ph/courses/1507",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlMMb0wBzJn3rcr7ATm4thqROZV21AHpvZQ&s"
+    },
+    {
+      id:53,
+      name:"Electronic Fuel Injected System",
+      description:"This course focuses on the fundamentals and operation of electronic fuel injection (EFI) systems in modern vehicles. Participants will learn about the components, diagnostic procedures, and maintenance techniques related to EFI. The course covers fuel delivery, air-fuel mixture management, and the role of sensors and control modules. Hands-on exercises will enhance troubleshooting skills, enabling technicians to efficiently diagnose and resolve EFI-related issues. This course is essential for anyone aiming to specialize in automotive fuel systems.",
+      price:"₱5,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/3116",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRE291CkZMKchEIlLK9CjqpuvK34O8JNG8w&s"
+    },
+    {
+      id:54,
+      name:"Essential Inputs For Urban Food Gardening (Hands-on) At MFI Pasig ",
+      description:"Production of food crops and its complementary production of natural fertilizers at home in urban areas present many benefits for urban dwellers as well as to the environment. Home grown fruits and vegetables the natural way can help ensure food sufficiency while recycling of fruit and vegetable trimmings into natural garden inputs promotes chemical-free fresh produce while benefiting the environment and reducing the carbon footprint of fresh food consumed in the city. This course covers the hands-on preparation of natural taste enhancer Fermented Fruit Juice (FFJ), naturan growth enhancer Fermented Plant Juice (FPJ), Fish Amino Acid (FAA) and natural calcium phosphate micro nutrients (Calphos). Pre-fermented concoctions and extracts for harvesting of extracts will add to the hands on experence in handlng inputs to nourish crops.",
+      price:"₱699",
+      duration:"4 Hours",
+      link:'https://courselist.mfi.org.ph/courses/3134',
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUndLd_kzLDnXOySmxm5KpJAz6tZe5t1UPQw&s"
+    },
+    {
+      id:55,
+      name:"Essentials Of Industrial Electronics ",
+      description:"The Industrial Electronics Essentials course is designed to provide participants with an in-depth understanding of electronic systems and components critical to industrial applications. This course encompasses a broad spectrum of topics, ranging from foundational principles to advanced applications, including electronic circuits and control systems. Participants will engage with the integration and practical use of electronic devices and systems in diverse industrial settings, emphasizing their significance in optimizing production processes. Through a combination of theoretical instruction and hands-on laboratory exercises, learners will gain valuable practical skills and experience real-world scenarios that enhance their problem-solving abilities. This course prepares participants to meet the challenges of modern industrial environments with confidence and competence. ",
+      price:"₱7,500",
+      link:"https://courselist.mfi.org.ph/courses/890",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6X7XWp0iZCWtz82Vqy7YpmPgy3cdlcvLxQ&s"
+    },
+    {
+      id:56,
+      name:"Fiber Optics Technology",
+      description:"This course aims to equip participants with essential knowledge and practical skills in fiber optics technology, aligning with current industry practices and standards. Participants will explore different types of fiber optic cables and connectors, as well as the tools necessary for installation. The course includes hands-on training in installation methods, termination procedures, and splicing techniques. Additionally, participants will learn how to test installed fiber optic cables to meet established quality standards, ensuring their readiness for use in various applications. ",
+      price: "₱9,000",
+      link:'https://courselist.mfi.org.ph/courses/1740',
+      image:"https://www.nai-group.com/wp-content/uploads/2018/09/shutterstock_526546213.jpg"
+    },
+    {
+      id:57, 
+      name:"Flux Cored Arc Welding",
+      description:"This course introduces participants to flux cored arc welding (FCAW), a versatile and efficient welding process. Participants will learn the principles of FCAW, including equipment setup, filler metal selection, and welding techniques. The course emphasizes hands-on training, enabling learners to perform welding tasks on various materials and thicknesses. By the end of the course, participants will be equipped to execute basic FCAW operations safely and effectively, preparing them for applications in various industrial environments. ",
+      price:"₱10,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/2083",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpir6hYv8oIetE_szdmRk_3EnlVBs5W5RuQ&s"
     }
   ]
   res.status(200).json(courseList);
