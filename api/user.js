@@ -524,7 +524,7 @@ export default function handler(req, res) {
     {
       id: 61,
       name: "Fundamentals Of Motor Controls  (Online Course)",
-      description: "Fundamentals Of Motor Controls  (Online Course)",
+      description: "This course offers a comprehensive exploration of electronics troubleshooting, combining both technical knowledge and practical skills. Participants will learn to gather and analyze symptoms to identify electronic faults effectively. The course will cover essential troubleshooting techniques, including cold check and hot check methods. In addition, students will examine various electronic diagrams, understanding their uses and functions. The course will also introduce commonly used troubleshooting and servicing instruments, equipping participants with the tools needed for efficient electronics repair and maintenance. ",
       price: "₱4,000",
       duration: "21 Hours",
       link: "https://courselist.mfi.org.ph/courses/792",
