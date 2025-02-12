@@ -603,7 +603,7 @@ export default function handler(req, res) {
       image: "https://deltawye.com/wp-content/uploads/2024/01/delta-wye-how-to-become-an-industrial-electrician-7x5-1-1024x724.jpg"
     },
     {
-      id:61,
+      id:70,
       name:"Industrial Mechatronics (IE/EP/AIMC/PLC/SIA)",
       description:"The Industrial Mechatronics course provides a comprehensive overview of the integration of mechanical engineering, electronics, and computer systems in industrial automation. Designed for engineers, technicians, and industry professionals, this course explores the principles and applications of mechatronics in modern industrial settings. Participants will gain hands-on experience and theoretical knowledge on how to design, implement, and maintain sophisticated mechatronic systems that enhance automation and efficiency in manufacturing processes. Key Components: ",
       price:"₱28,350",
@@ -612,7 +612,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHk3i9Na4OKtYEsv-_4c7jKGlLqKey1DcXA&s"
     },
     {
-      id:62,
+      id:71,
       name:'Industrial Process Controls (IPC)',
       description:"This course focuses on the principles and practices of industrial process control systems. Participants will learn about various control strategies, instrumentation, and automation technologies used in industrial environments. The program emphasizes hands-on training with real-world scenarios to develop problem-solving skills. By the end of the course, students will be able to design, implement, and troubleshoot process control systems effectively, ensuring optimal performance and safety in industrial operations. ",
       price:"₱9,000",
