@@ -452,47 +452,173 @@ export default function handler(req, res) {
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlMMb0wBzJn3rcr7ATm4thqROZV21AHpvZQ&s"
     },
     {
-      id:53,
-      name:"Electronic Fuel Injected System",
-      description:"This course focuses on the fundamentals and operation of electronic fuel injection (EFI) systems in modern vehicles. Participants will learn about the components, diagnostic procedures, and maintenance techniques related to EFI. The course covers fuel delivery, air-fuel mixture management, and the role of sensors and control modules. Hands-on exercises will enhance troubleshooting skills, enabling technicians to efficiently diagnose and resolve EFI-related issues. This course is essential for anyone aiming to specialize in automotive fuel systems.",
-      price:"₱5,000",
-      duration:"40 Hours",
-      link:"https://courselist.mfi.org.ph/courses/3116",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRE291CkZMKchEIlLK9CjqpuvK34O8JNG8w&s"
+      id: 53,
+      name: "Electronic Fuel Injected System",
+      description: "This course focuses on the fundamentals and operation of electronic fuel injection (EFI) systems in modern vehicles. Participants will learn about the components, diagnostic procedures, and maintenance techniques related to EFI. The course covers fuel delivery, air-fuel mixture management, and the role of sensors and control modules. Hands-on exercises will enhance troubleshooting skills, enabling technicians to efficiently diagnose and resolve EFI-related issues. This course is essential for anyone aiming to specialize in automotive fuel systems.",
+      price: "₱5,000",
+      duration: "40 Hours",
+      link: "https://courselist.mfi.org.ph/courses/3116",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRE291CkZMKchEIlLK9CjqpuvK34O8JNG8w&s"
     },
     {
-      id:54,
-      name:"Essential Inputs For Urban Food Gardening (Hands-on) At MFI Pasig ",
-      description:"Production of food crops and its complementary production of natural fertilizers at home in urban areas present many benefits for urban dwellers as well as to the environment. Home grown fruits and vegetables the natural way can help ensure food sufficiency while recycling of fruit and vegetable trimmings into natural garden inputs promotes chemical-free fresh produce while benefiting the environment and reducing the carbon footprint of fresh food consumed in the city. This course covers the hands-on preparation of natural taste enhancer Fermented Fruit Juice (FFJ), naturan growth enhancer Fermented Plant Juice (FPJ), Fish Amino Acid (FAA) and natural calcium phosphate micro nutrients (Calphos). Pre-fermented concoctions and extracts for harvesting of extracts will add to the hands on experence in handlng inputs to nourish crops.",
-      price:"₱699",
-      duration:"4 Hours",
-      link:'https://courselist.mfi.org.ph/courses/3134',
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUndLd_kzLDnXOySmxm5KpJAz6tZe5t1UPQw&s"
+      id: 54,
+      name: "Essential Inputs For Urban Food Gardening (Hands-on) At MFI Pasig ",
+      description: "Production of food crops and its complementary production of natural fertilizers at home in urban areas present many benefits for urban dwellers as well as to the environment. Home grown fruits and vegetables the natural way can help ensure food sufficiency while recycling of fruit and vegetable trimmings into natural garden inputs promotes chemical-free fresh produce while benefiting the environment and reducing the carbon footprint of fresh food consumed in the city. This course covers the hands-on preparation of natural taste enhancer Fermented Fruit Juice (FFJ), naturan growth enhancer Fermented Plant Juice (FPJ), Fish Amino Acid (FAA) and natural calcium phosphate micro nutrients (Calphos). Pre-fermented concoctions and extracts for harvesting of extracts will add to the hands on experence in handlng inputs to nourish crops.",
+      price: "₱699",
+      duration: "4 Hours",
+      link: 'https://courselist.mfi.org.ph/courses/3134',
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUndLd_kzLDnXOySmxm5KpJAz6tZe5t1UPQw&s"
     },
     {
-      id:55,
-      name:"Essentials Of Industrial Electronics ",
-      description:"The Industrial Electronics Essentials course is designed to provide participants with an in-depth understanding of electronic systems and components critical to industrial applications. This course encompasses a broad spectrum of topics, ranging from foundational principles to advanced applications, including electronic circuits and control systems. Participants will engage with the integration and practical use of electronic devices and systems in diverse industrial settings, emphasizing their significance in optimizing production processes. Through a combination of theoretical instruction and hands-on laboratory exercises, learners will gain valuable practical skills and experience real-world scenarios that enhance their problem-solving abilities. This course prepares participants to meet the challenges of modern industrial environments with confidence and competence. ",
-      price:"₱7,500",
-      link:"https://courselist.mfi.org.ph/courses/890",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6X7XWp0iZCWtz82Vqy7YpmPgy3cdlcvLxQ&s"
+      id: 55,
+      name: "Essentials Of Industrial Electronics ",
+      description: "The Industrial Electronics Essentials course is designed to provide participants with an in-depth understanding of electronic systems and components critical to industrial applications. This course encompasses a broad spectrum of topics, ranging from foundational principles to advanced applications, including electronic circuits and control systems. Participants will engage with the integration and practical use of electronic devices and systems in diverse industrial settings, emphasizing their significance in optimizing production processes. Through a combination of theoretical instruction and hands-on laboratory exercises, learners will gain valuable practical skills and experience real-world scenarios that enhance their problem-solving abilities. This course prepares participants to meet the challenges of modern industrial environments with confidence and competence. ",
+      price: "₱7,500",
+      link: "https://courselist.mfi.org.ph/courses/890",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6X7XWp0iZCWtz82Vqy7YpmPgy3cdlcvLxQ&s"
     },
     {
-      id:56,
-      name:"Fiber Optics Technology",
-      description:"This course aims to equip participants with essential knowledge and practical skills in fiber optics technology, aligning with current industry practices and standards. Participants will explore different types of fiber optic cables and connectors, as well as the tools necessary for installation. The course includes hands-on training in installation methods, termination procedures, and splicing techniques. Additionally, participants will learn how to test installed fiber optic cables to meet established quality standards, ensuring their readiness for use in various applications. ",
+      id: 56,
+      name: "Fiber Optics Technology",
+      description: "This course aims to equip participants with essential knowledge and practical skills in fiber optics technology, aligning with current industry practices and standards. Participants will explore different types of fiber optic cables and connectors, as well as the tools necessary for installation. The course includes hands-on training in installation methods, termination procedures, and splicing techniques. Additionally, participants will learn how to test installed fiber optic cables to meet established quality standards, ensuring their readiness for use in various applications. ",
       price: "₱9,000",
-      link:'https://courselist.mfi.org.ph/courses/1740',
-      image:"https://www.nai-group.com/wp-content/uploads/2018/09/shutterstock_526546213.jpg"
+      link: 'https://courselist.mfi.org.ph/courses/1740',
+      image: "https://www.nai-group.com/wp-content/uploads/2018/09/shutterstock_526546213.jpg"
     },
     {
-      id:57, 
-      name:"Flux Cored Arc Welding",
-      description:"This course introduces participants to flux cored arc welding (FCAW), a versatile and efficient welding process. Participants will learn the principles of FCAW, including equipment setup, filler metal selection, and welding techniques. The course emphasizes hands-on training, enabling learners to perform welding tasks on various materials and thicknesses. By the end of the course, participants will be equipped to execute basic FCAW operations safely and effectively, preparing them for applications in various industrial environments. ",
-      price:"₱10,000",
-      duration:"40 Hours",
-      link:"https://courselist.mfi.org.ph/courses/2083",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpir6hYv8oIetE_szdmRk_3EnlVBs5W5RuQ&s"
+      id: 57,
+      name: "Flux Cored Arc Welding",
+      description: "This course introduces participants to flux cored arc welding (FCAW), a versatile and efficient welding process. Participants will learn the principles of FCAW, including equipment setup, filler metal selection, and welding techniques. The course emphasizes hands-on training, enabling learners to perform welding tasks on various materials and thicknesses. By the end of the course, participants will be equipped to execute basic FCAW operations safely and effectively, preparing them for applications in various industrial environments. ",
+      price: "₱10,000",
+      duration: "40 Hours",
+      link: "https://courselist.mfi.org.ph/courses/2083",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpir6hYv8oIetE_szdmRk_3EnlVBs5W5RuQ&s"
+    },
+    {
+      id: 58,
+      name: "Full-stack Development Laravel + React (Hybrid Teaching Modality)",
+      description: "is a comprehensive course designed to equip students with the skills needed to build dynamic web applications. The course covers Laravel for backend development, React for frontend development, and API integration between the two. Key topics include authentication, database management, state management, and deployment. Through hands-on projects and real-world applications, students will gain practical experience in full-stack development, preparing them for professional roles in web development.",
+      price: "₱36,000",
+      duration: "₱36,000",
+      link: "https://courselist.mfi.org.ph/courses/3064",
+      image: "https://miro.medium.com/v2/resize:fit:1024/0*oUyjZH6_leRq64sQ.png"
+    },
+    {
+      id: 59,
+      name: "Full-stack Web Development With Python (Hybrid Teaching Modality)",
+      description: "Full-Stack Web Development aims to equip students with the knowledge and skills to build, manage, and deploy web applications across the front-end (client-side) and back-end (server-side) layers. *Hybrid Teaching Modality * is an educational model in which some students attend a lecture or seminar in-person as normal, while others join virtually from home. Lecturers therefore teach remote and in-person students at the same time using tools like Teams or Zoom, alongside the full range of digital tools at MFI. ",
+      price: "₱18,000",
+      duration: "120 Hours",
+      link: "https://courselist.mfi.org.ph/courses/3201",
+      image: "https://media.geeksforgeeks.org/wp-content/uploads/20240415204701/How-to-Become-a-Python-Full-Stack-Developer.png"
+    },
+    {
+      id: 60,
+      name: "Fundamentals Of Electronics Troubleshooting",
+      description: "This course offers a comprehensive exploration of electronics troubleshooting, combining both technical knowledge and practical skills. Participants will learn to gather and analyze symptoms to identify electronic faults effectively. The course will cover essential troubleshooting techniques, including cold check and hot check methods. In addition, students will examine various electronic diagrams, understanding their uses and functions. The course will also introduce commonly used troubleshooting and servicing instruments, equipping participants with the tools needed for efficient electronics repair and maintenance. ",
+      price: "₱6,500",
+      duration: "35 Hours",
+      link: "https://courselist.mfi.org.ph/courses/792",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYyY77DVwG4ipvsxLCwbMdx_IDhkjo-bzXDw&s"
+    },
+    {
+      id: 61,
+      name: "Fundamentals Of Motor Controls  (Online Course)",
+      description: "Fundamentals Of Motor Controls  (Online Course)",
+      price: "₱4,000",
+      duration: "21 Hours",
+      link: "https://courselist.mfi.org.ph/courses/792",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYyY77DVwG4ipvsxLCwbMdx_IDhkjo-bzXDw&s"
+    },
+    {
+      id: 62,
+      name: "Gas Engine Mechanic",
+      description: "This course offers comprehensive training on gas engine operation, maintenance, and repair. Participants will learn about the various components of gas engines, including fuel systems, ignition systems, and emissions controls. The program includes hands-on experience with diagnostic tools and troubleshooting techniques. By the end of the course, students will be equipped to perform routine maintenance, diagnose issues, and implement effective repair strategies, preparing them for a successful career in gas engine mechanics. ",
+      price: "₱7,000",
+      duration: "60 Hours",
+      link: "https://courselist.mfi.org.ph/courses/20",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0g1pgog7uO4ygbpB9ZOM2YdmGhIZLCc4Xug&s"
+    },
+    {
+      id: 63,
+      name: "Gas Tungsten Arc Welding (Plate Welding)",
+      description: "This Gas Tungsten Arc Welding (GTAW) - Plate Welding course offers in-depth training on the techniques and principles of GTAW, also known as TIG (Tungsten Inert Gas) welding, focused specifically on plate welding. Participants will gain hands-on experience and foundational knowledge in welding steel and stainless steel plates using the GTAW process. The course emphasizes proper safety practices, welding theory, and skill development for creating high-quality welds. Designed for individuals with a basic understanding of welding, this course provides the technical skills and practical applications necessary for producing structurally sound welds. The course will cover weld joint types, filler material selection, and the essential equipment setup, ensuring that participants are prepared to handle plate welding applications in various industrial settings. ",
+      price: "₱14,000",
+      duration: "40 Hours",
+      link: "https://courselist.mfi.org.ph/courses/1723",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f_aqvlTL-Xfb1ihxI-eJO12IFt2ZreMeIQ&s"
+    },
+    {
+      id: 64,
+      name: "Gas Welding, Cutting And Brazing",
+      description: "The Gas Welding, Cutting, and Brazing course provides comprehensive training on the techniques and safety protocols for using oxy-acetylene and other gas-based methods in welding, cutting, and brazing applications. Participants will learn to work with gas torches and related equipment to join metals, cut through various materials, and create strong, lasting bonds. This hands-on course emphasizes precision, safety, and technique, preparing students to perform gas welding and cutting in industries such as manufacturing, metal fabrication, and repair services. ",
+      price: "₱6,500",
+      duration: "40 Hours",
+      link: "https://courselist.mfi.org.ph/courses/63",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTMb4s5hQkH5uFkKmqymFc8ktt-AeFRXs6Cw&s"
+    },
+    {
+      id: 65,
+      name: "Geometric Dimensioning & Tolerancing Essentials",
+      description: "This course is designed for engineering students, CAD engineers, entry-level engineers or technicians, manufacturing or production managers, CNC machinists, machine shop owners or operators.  It aims to enhance reading and understanding of engineering drawings, understand and apply the theory of interchangeability of parts in mass-production, and learn the systems of the various geometric tolerance control symbols and apply them as a common language in engineering.   ",
+      price: '₱5,000',
+      duration: "21 Hours",
+      link: "https://courselist.mfi.org.ph/courses/2593",
+      image: "https://i.ytimg.com/vi/M0bVXXmXXdI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAbayWCB3XgjGDG4KGrigcA-npzxA"
+    },
+    {
+      id: 66,
+      name: 'GMAW/FCAW (Gas Metal Arc Welding/Flux Cored Arc Welding) - Pipe Welding',
+      description: "GMAW, or Metal Inert Gas (MIG) welding, is a semi automatic process that creates an arc by using a continuously fed solid electrode protected by a shielding gas, while FCAW requires a continuously fed consumable tubular electrode containing a flux, sometimes also protected by a shielding gas. These two processess are widely used in construction because of its high welding speed and produces deeper penetrating weld. This module is designed for welders who would like to develop their welding skills in groove welding of carbon steel pipes using all GMAW or all FCAW or combination of these two processes. Participant learns how to produce quality groove weld on pipes made of carbon steel in all types of welding position using ER70S for GMAW and K71T for FCAW.   ",
+      price: "₱11,000",
+      duration: "40 hours",
+      link: "https://courselist.mfi.org.ph/courses/1725",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJUxVz5JMIwQCBLnWJ9exRUMIporEHnMXbQQ&s"
+    },
+    {
+      id: 67,
+      name: "Industrial Electrician",
+      description: "The Industrial Electrician Course is designed to provide comprehensive training for individuals aspiring to become industrial electricians or enhance their existing skills in industrial electrical systems. This course covers essential theoretical knowledge, practical skills, and hands-on experience necessary to install, maintain, troubleshoot, and repair electrical equipment and systems in industrial settings. Participants will learn about electrical safety practices, regulations, and standards applicable to industrial environments. They will gain proficiency in reading electrical diagrams, interpreting technical specifications, and using specialized tools and equipment for electrical work. Emphasis will be placed on practical applications, problem-solving, and preventive maintenance to ensure the reliable operation of industrial electrical systems. ",
+      price: "₱9,000",
+      duration: '₱9,000',
+      link: "https://courselist.mfi.org.ph/courses/55",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhpjVy5TvcyaA1pBTcS6JZRrr88WLYLAx6Q&s"
+    },
+    {
+      id: 68,
+      name: "Industrial Electrician (Pasay Branch)",
+      description: "This module deals with the fundamental concepts of electrical technology. It includes a comprehensive coverage of electrical topics such as safety, electrical instruments, blueprint reading, electrical machines, electrical controls, and troubleshooting. Laboratory activities are provided toverify and practice learned principles. ",
+      price: '₱9,000',
+      duration: "48 Hours",
+      link: 'https://courselist.mfi.org.ph/courses/1494',
+      image: "https://deltawye.com/wp-content/uploads/2024/01/delta-wye-how-to-become-an-industrial-electrician-7x5-1-1024x724.jpg"
+    },
+    {
+      id: 69,
+      name: "Industrial Electronics (Pasay Branch)",
+      description: "This course is all about the main components of typical industrial electronic systems and will be able to assemble controller systems for industrial process. The aim of this course is to provide knowledge for the assembly of electronic circuits, typical characteristics of equipment used in such installations along with examples of industrial applications. ",
+      price: "₱6,800",
+      duration: "60 Hours",
+      link: 'https://courselist.mfi.org.ph/courses/1498',
+      image: "https://deltawye.com/wp-content/uploads/2024/01/delta-wye-how-to-become-an-industrial-electrician-7x5-1-1024x724.jpg"
+    },
+    {
+      id:61,
+      name:"Industrial Mechatronics (IE/EP/AIMC/PLC/SIA)",
+      description:"The Industrial Mechatronics course provides a comprehensive overview of the integration of mechanical engineering, electronics, and computer systems in industrial automation. Designed for engineers, technicians, and industry professionals, this course explores the principles and applications of mechatronics in modern industrial settings. Participants will gain hands-on experience and theoretical knowledge on how to design, implement, and maintain sophisticated mechatronic systems that enhance automation and efficiency in manufacturing processes. Key Components: ",
+      price:"₱28,350",
+      duration:"189 Hours",
+      link:"https://courselist.mfi.org.ph/courses/2826",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHk3i9Na4OKtYEsv-_4c7jKGlLqKey1DcXA&s"
+    },
+    {
+      id:62,
+      name:'Industrial Process Controls (IPC)',
+      description:"This course focuses on the principles and practices of industrial process control systems. Participants will learn about various control strategies, instrumentation, and automation technologies used in industrial environments. The program emphasizes hands-on training with real-world scenarios to develop problem-solving skills. By the end of the course, students will be able to design, implement, and troubleshoot process control systems effectively, ensuring optimal performance and safety in industrial operations. ",
+      price:"₱9,000",
+      duration:'40 Hours',
+      link:"https://courselist.mfi.org.ph/courses/36",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIQxsoUiTmhlXAGgJC-UPXDTwj0y1j__FyA&s"
     }
   ]
   res.status(200).json(courseList);
