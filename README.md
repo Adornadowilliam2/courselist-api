@@ -18,6 +18,6 @@ sudo apt install build-essential
 - then to check if it install just type this command
 
 ```php
-sudo apt install build-essential
+g++ --version
 ```
 - btw the meaning of .cpp is C Plus plus
