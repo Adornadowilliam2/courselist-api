@@ -619,6 +619,87 @@ export default function handler(req, res) {
       duration:'40 Hours',
       link:"https://courselist.mfi.org.ph/courses/36",
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIQxsoUiTmhlXAGgJC-UPXDTwj0y1j__FyA&s"
+    },
+    {
+      id:72,
+      name:"Instrumentation And Control Essentials (ICE)",
+      description:"This course covers the fundamentals of instrumentation. It deals with the principles of instrumentation and control devices including its operation, design, function and installation requirements. It also covers the fundamentals of measuring common process variables including pressure, level, flow and temperature. Practical demonstrations and hands-on exercises are part of this module to enhance the knowledge and skills of trainees in the proper installation of I&C devices. Personal safety and instrument safety are also covered in this training program. ",
+      price:"₱5,000",
+      duration:"21 hours",
+      link:"https://courselist.mfi.org.ph/courses/1732",
+      image:"https://media.licdn.com/dms/image/v2/D5612AQHvNxv_xbrw1g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728325017925?e=2147483647&v=beta&t=-17--f36QzTXm1APcLQLwGj5oTXhCeMzX4vgSvzK69E"
+    },
+    {
+      id:73,
+      name:"Integrated Electronics Courses (PEE / ESIELEX/TTES)",
+      description:"The Electronic Essentials Applications course provides a comprehensive introduction to the practical applications of electronic principles. Designed for individuals seeking to apply electronic fundamentals in real-world scenarios, this course covers essential electronic components, circuit design, and practical applications in residential, commercial, and industrial settings. Participants will explore the functionality and integration of electronic systems, including hands-on exercises and project work to enhance their practical skills. The course emphasizes understanding and applying core electronic concepts to solve practical problems effectively. ",
+      price:"₱20,000",
+      duration:"115 hours",
+      link:"https://courselist.mfi.org.ph/courses/3071",
+      image:"https://www.msuiit.edu.ph/assets/img/schools/scs/bs-electronics-and-computer-technology.png"
+    },
+    {
+      id:74,
+      name:"Integrated Troubleshooting Principles",
+      description:"This course provides the learners the ability to diagnose and troubleshoot common problems and errors encountered during the operation of programmable logic controllers. Common PLC brands including Siemens, Allen-Bradley and Mitsubishi shall be used in this training. A balance of lecture, demonstration and hands-on exercises shall be implemented to acquire the necessary knowledge and skills in understanding, diagnosing and troubleshooting PLC controlled systems.  ",
+      price:"₱15,000",
+      duration:"21 hours",
+      link:"https://courselist.mfi.org.ph/courses/1865",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCVaxvjUwTH937uqLDUOMY6Ho6rres359MFA&s"
+    },
+    {
+      id:75,
+      name:"Integrated Troubleshooting Technique ",
+      description:"The Integrated Troubleshooting Technique Training course equips participants with comprehensive skills and strategies for troubleshooting complex systems across various domains, including electronics, electrical systems, and industrial processes. The course integrates multiple troubleshooting techniques and tools, providing practical, hands-on experience to enhance problem-solving capabilities and improve system reliability. ",
+      price:"₱4,500",
+      duration:"28 hours",
+      link:"https://courselist.mfi.org.ph/courses/2978",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzIwJStmOBgoCi2DPE6i_P-P54Fi1EkyKGw&s"
+    },
+    {
+      id:76,
+      name:"Intermediate Gas Metal Arc Welding (Structural Welding)",
+      description:"The Intermediate Gas Metal Arc Welding (GMAW) – Structural Welding course is designed for welders with a basic understanding of GMAW techniques who wish to advance their skills in structural applications. This course focuses on the specific requirements for welding structural steel and other materials used in construction and fabrication. Participants will learn about joint design, proper welding techniques, and the use of different materials while emphasizing safety practices and quality control. Through hands-on training and practical exercises, students will develop the competencies needed to produce strong, high-quality welds in various structural settings. ",
+      price:"₱10,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/1179",
+      image:"https://lafargeandegge.com/wp-content/uploads/2023/10/Gas-METAL-ARC-WELDING.jpg"
+    },
+    {
+      id:77,
+      name:"Intermediate Shielded Metal Arc Welding (Structural Welding)",
+      description:'The Intermediate Shielded Metal Arc Welding (SMAW) - Structural Welding course builds on foundational welding skills, providing a deeper understanding of SMAW techniques for structural welding applications. Designed for welders with basic SMAW knowledge, this course enhances their ability to work on structural steel projects that require high-strength welds. Participants will learn advanced welding techniques, tackle common structural welding challenges, and follow industry standards for welding quality and safety. With a strong focus on hands-on practice, this course will prepare welders for roles in structural fabrication, construction, and maintenance. ',
+      price:"₱10,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/1177",
+      image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Shielded_Metal_Arc_Welding.jpg/300px-Shielded_Metal_Arc_Welding.jpg"
+    },
+    {
+      id:78,
+      name:"Lathe Machine Operation",
+      description:"This course provides comprehensive training in the operation and maintenance of lathe machines. Participants will learn about the various types of lathes, their components, and machining techniques. The curriculum emphasizes hands-on experience, allowing students to perform turning operations, thread cutting, and part finishing. By the end of the course, participants will be proficient in setting up, operating, and troubleshooting lathe machines, preparing them for careers in machining and manufacturing.   ",
+      price:"₱10,000",
+      duration:"40 hours",
+      link:"https://courselist.mfi.org.ph/courses/60",
+      image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4D3rZoSGqbHMaVIihvxpnWB5jnoJNDVHuQ&s'
+    },
+    {
+      id: 79,
+      name:"LINUX Essentials (Linux System Administration) Cisco",
+      description:"The goal of this course is to provide academic institutions and students a ?starting place? for learning the linux operating system. Students who complete this course should understand Linux as an operating system, basic open source concepts, how Linux is used and the basics of the Linux Command line. This course implements a ?practice as you read? approach to learning. Each learner has hands-on access to a Linux virtual Machine to practice, explore and trial Linux command line concepts. The labs provide a learning environment where students interact with the Linux operating system and build on their skills and knowledge as they progress through the course. ",
+      price:"₱9,000",
+      duration:"42 hours",
+      link:'https://courselist.mfi.org.ph/courses/51',
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcvRyqXsI_ArgmbOWslFdXXiodn6sBfwoxw&s"
+    },
+    {
+      id:80,
+      name:"Marine Automation And Instrumentation",
+      description:"This module covers automation and instrumentation as applied to ship operations. Basic concepts in electronics are introduced to the course to enable the participants to understand succeeding instrumentation and automation concepts. The first module in automation covers the application of pneumatic and electro-pneumatic elements in ships. The succeeding module deals with Programmable Logic Controllers. Lastly. principles of measurement and control are also included. Actual instrumentation and control devices shall be provided to the trainees for them to operate, connect, test and/or calibrate. Control strategies (modes of control) including ON/OFF, proportional, integral and derivative controls will also be discussed. Hands-on exercises are an integral part of this training module so that the trainees can better appreciate the application of electronics, pneumatics, electro-pneumatics, programmable controller, instrumentation devices and controllers. Trainees should be able to connect or hook-up the devices for its proper operation and testing. ",
+      price:"₱17,500",
+      duration:'49 Hours',
+      link:"https://courselist.mfi.org.ph/courses/1795",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQU6l9tiH0aN_-pIDh_o0I7mjNVx4hSdOGXA&s"
     }
   ]
   res.status(200).json(courseList);
