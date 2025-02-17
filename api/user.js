@@ -603,103 +603,166 @@ export default function handler(req, res) {
       image: "https://deltawye.com/wp-content/uploads/2024/01/delta-wye-how-to-become-an-industrial-electrician-7x5-1-1024x724.jpg"
     },
     {
-      id:70,
-      name:"Industrial Mechatronics (IE/EP/AIMC/PLC/SIA)",
-      description:"The Industrial Mechatronics course provides a comprehensive overview of the integration of mechanical engineering, electronics, and computer systems in industrial automation. Designed for engineers, technicians, and industry professionals, this course explores the principles and applications of mechatronics in modern industrial settings. Participants will gain hands-on experience and theoretical knowledge on how to design, implement, and maintain sophisticated mechatronic systems that enhance automation and efficiency in manufacturing processes. Key Components: ",
-      price:"₱28,350",
-      duration:"189 Hours",
-      link:"https://courselist.mfi.org.ph/courses/2826",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHk3i9Na4OKtYEsv-_4c7jKGlLqKey1DcXA&s"
+      id: 70,
+      name: "Industrial Mechatronics (IE/EP/AIMC/PLC/SIA)",
+      description: "The Industrial Mechatronics course provides a comprehensive overview of the integration of mechanical engineering, electronics, and computer systems in industrial automation. Designed for engineers, technicians, and industry professionals, this course explores the principles and applications of mechatronics in modern industrial settings. Participants will gain hands-on experience and theoretical knowledge on how to design, implement, and maintain sophisticated mechatronic systems that enhance automation and efficiency in manufacturing processes. Key Components: ",
+      price: "₱28,350",
+      duration: "189 Hours",
+      link: "https://courselist.mfi.org.ph/courses/2826",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHk3i9Na4OKtYEsv-_4c7jKGlLqKey1DcXA&s"
     },
     {
-      id:71,
-      name:'Industrial Process Controls (IPC)',
-      description:"This course focuses on the principles and practices of industrial process control systems. Participants will learn about various control strategies, instrumentation, and automation technologies used in industrial environments. The program emphasizes hands-on training with real-world scenarios to develop problem-solving skills. By the end of the course, students will be able to design, implement, and troubleshoot process control systems effectively, ensuring optimal performance and safety in industrial operations. ",
-      price:"₱9,000",
-      duration:'40 Hours',
-      link:"https://courselist.mfi.org.ph/courses/36",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIQxsoUiTmhlXAGgJC-UPXDTwj0y1j__FyA&s"
+      id: 71,
+      name: 'Industrial Process Controls (IPC)',
+      description: "This course focuses on the principles and practices of industrial process control systems. Participants will learn about various control strategies, instrumentation, and automation technologies used in industrial environments. The program emphasizes hands-on training with real-world scenarios to develop problem-solving skills. By the end of the course, students will be able to design, implement, and troubleshoot process control systems effectively, ensuring optimal performance and safety in industrial operations. ",
+      price: "₱9,000",
+      duration: '40 Hours',
+      link: "https://courselist.mfi.org.ph/courses/36",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIQxsoUiTmhlXAGgJC-UPXDTwj0y1j__FyA&s"
     },
     {
-      id:72,
-      name:"Instrumentation And Control Essentials (ICE)",
-      description:"This course covers the fundamentals of instrumentation. It deals with the principles of instrumentation and control devices including its operation, design, function and installation requirements. It also covers the fundamentals of measuring common process variables including pressure, level, flow and temperature. Practical demonstrations and hands-on exercises are part of this module to enhance the knowledge and skills of trainees in the proper installation of I&C devices. Personal safety and instrument safety are also covered in this training program. ",
-      price:"₱5,000",
-      duration:"21 hours",
-      link:"https://courselist.mfi.org.ph/courses/1732",
-      image:"https://media.licdn.com/dms/image/v2/D5612AQHvNxv_xbrw1g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728325017925?e=2147483647&v=beta&t=-17--f36QzTXm1APcLQLwGj5oTXhCeMzX4vgSvzK69E"
+      id: 72,
+      name: "Instrumentation And Control Essentials (ICE)",
+      description: "This course covers the fundamentals of instrumentation. It deals with the principles of instrumentation and control devices including its operation, design, function and installation requirements. It also covers the fundamentals of measuring common process variables including pressure, level, flow and temperature. Practical demonstrations and hands-on exercises are part of this module to enhance the knowledge and skills of trainees in the proper installation of I&C devices. Personal safety and instrument safety are also covered in this training program. ",
+      price: "₱5,000",
+      duration: "21 hours",
+      link: "https://courselist.mfi.org.ph/courses/1732",
+      image: "https://media.licdn.com/dms/image/v2/D5612AQHvNxv_xbrw1g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1728325017925?e=2147483647&v=beta&t=-17--f36QzTXm1APcLQLwGj5oTXhCeMzX4vgSvzK69E"
     },
     {
-      id:73,
-      name:"Integrated Electronics Courses (PEE / ESIELEX/TTES)",
-      description:"The Electronic Essentials Applications course provides a comprehensive introduction to the practical applications of electronic principles. Designed for individuals seeking to apply electronic fundamentals in real-world scenarios, this course covers essential electronic components, circuit design, and practical applications in residential, commercial, and industrial settings. Participants will explore the functionality and integration of electronic systems, including hands-on exercises and project work to enhance their practical skills. The course emphasizes understanding and applying core electronic concepts to solve practical problems effectively. ",
-      price:"₱20,000",
-      duration:"115 hours",
-      link:"https://courselist.mfi.org.ph/courses/3071",
-      image:"https://www.msuiit.edu.ph/assets/img/schools/scs/bs-electronics-and-computer-technology.png"
+      id: 73,
+      name: "Integrated Electronics Courses (PEE / ESIELEX/TTES)",
+      description: "The Electronic Essentials Applications course provides a comprehensive introduction to the practical applications of electronic principles. Designed for individuals seeking to apply electronic fundamentals in real-world scenarios, this course covers essential electronic components, circuit design, and practical applications in residential, commercial, and industrial settings. Participants will explore the functionality and integration of electronic systems, including hands-on exercises and project work to enhance their practical skills. The course emphasizes understanding and applying core electronic concepts to solve practical problems effectively. ",
+      price: "₱20,000",
+      duration: "115 hours",
+      link: "https://courselist.mfi.org.ph/courses/3071",
+      image: "https://www.msuiit.edu.ph/assets/img/schools/scs/bs-electronics-and-computer-technology.png"
     },
     {
-      id:74,
-      name:"Integrated Troubleshooting Principles",
-      description:"This course provides the learners the ability to diagnose and troubleshoot common problems and errors encountered during the operation of programmable logic controllers. Common PLC brands including Siemens, Allen-Bradley and Mitsubishi shall be used in this training. A balance of lecture, demonstration and hands-on exercises shall be implemented to acquire the necessary knowledge and skills in understanding, diagnosing and troubleshooting PLC controlled systems.  ",
-      price:"₱15,000",
-      duration:"21 hours",
-      link:"https://courselist.mfi.org.ph/courses/1865",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCVaxvjUwTH937uqLDUOMY6Ho6rres359MFA&s"
+      id: 74,
+      name: "Integrated Troubleshooting Principles",
+      description: "This course provides the learners the ability to diagnose and troubleshoot common problems and errors encountered during the operation of programmable logic controllers. Common PLC brands including Siemens, Allen-Bradley and Mitsubishi shall be used in this training. A balance of lecture, demonstration and hands-on exercises shall be implemented to acquire the necessary knowledge and skills in understanding, diagnosing and troubleshooting PLC controlled systems.  ",
+      price: "₱15,000",
+      duration: "21 hours",
+      link: "https://courselist.mfi.org.ph/courses/1865",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCVaxvjUwTH937uqLDUOMY6Ho6rres359MFA&s"
     },
     {
-      id:75,
-      name:"Integrated Troubleshooting Technique ",
-      description:"The Integrated Troubleshooting Technique Training course equips participants with comprehensive skills and strategies for troubleshooting complex systems across various domains, including electronics, electrical systems, and industrial processes. The course integrates multiple troubleshooting techniques and tools, providing practical, hands-on experience to enhance problem-solving capabilities and improve system reliability. ",
-      price:"₱4,500",
-      duration:"28 hours",
-      link:"https://courselist.mfi.org.ph/courses/2978",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzIwJStmOBgoCi2DPE6i_P-P54Fi1EkyKGw&s"
+      id: 75,
+      name: "Integrated Troubleshooting Technique ",
+      description: "The Integrated Troubleshooting Technique Training course equips participants with comprehensive skills and strategies for troubleshooting complex systems across various domains, including electronics, electrical systems, and industrial processes. The course integrates multiple troubleshooting techniques and tools, providing practical, hands-on experience to enhance problem-solving capabilities and improve system reliability. ",
+      price: "₱4,500",
+      duration: "28 hours",
+      link: "https://courselist.mfi.org.ph/courses/2978",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzIwJStmOBgoCi2DPE6i_P-P54Fi1EkyKGw&s"
     },
     {
-      id:76,
-      name:"Intermediate Gas Metal Arc Welding (Structural Welding)",
-      description:"The Intermediate Gas Metal Arc Welding (GMAW) – Structural Welding course is designed for welders with a basic understanding of GMAW techniques who wish to advance their skills in structural applications. This course focuses on the specific requirements for welding structural steel and other materials used in construction and fabrication. Participants will learn about joint design, proper welding techniques, and the use of different materials while emphasizing safety practices and quality control. Through hands-on training and practical exercises, students will develop the competencies needed to produce strong, high-quality welds in various structural settings. ",
-      price:"₱10,000",
-      duration:"40 Hours",
-      link:"https://courselist.mfi.org.ph/courses/1179",
-      image:"https://lafargeandegge.com/wp-content/uploads/2023/10/Gas-METAL-ARC-WELDING.jpg"
+      id: 76,
+      name: "Intermediate Gas Metal Arc Welding (Structural Welding)",
+      description: "The Intermediate Gas Metal Arc Welding (GMAW) – Structural Welding course is designed for welders with a basic understanding of GMAW techniques who wish to advance their skills in structural applications. This course focuses on the specific requirements for welding structural steel and other materials used in construction and fabrication. Participants will learn about joint design, proper welding techniques, and the use of different materials while emphasizing safety practices and quality control. Through hands-on training and practical exercises, students will develop the competencies needed to produce strong, high-quality welds in various structural settings. ",
+      price: "₱10,000",
+      duration: "40 Hours",
+      link: "https://courselist.mfi.org.ph/courses/1179",
+      image: "https://lafargeandegge.com/wp-content/uploads/2023/10/Gas-METAL-ARC-WELDING.jpg"
     },
     {
-      id:77,
-      name:"Intermediate Shielded Metal Arc Welding (Structural Welding)",
-      description:'The Intermediate Shielded Metal Arc Welding (SMAW) - Structural Welding course builds on foundational welding skills, providing a deeper understanding of SMAW techniques for structural welding applications. Designed for welders with basic SMAW knowledge, this course enhances their ability to work on structural steel projects that require high-strength welds. Participants will learn advanced welding techniques, tackle common structural welding challenges, and follow industry standards for welding quality and safety. With a strong focus on hands-on practice, this course will prepare welders for roles in structural fabrication, construction, and maintenance. ',
-      price:"₱10,000",
-      duration:"40 Hours",
-      link:"https://courselist.mfi.org.ph/courses/1177",
-      image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Shielded_Metal_Arc_Welding.jpg/300px-Shielded_Metal_Arc_Welding.jpg"
+      id: 77,
+      name: "Intermediate Shielded Metal Arc Welding (Structural Welding)",
+      description: 'The Intermediate Shielded Metal Arc Welding (SMAW) - Structural Welding course builds on foundational welding skills, providing a deeper understanding of SMAW techniques for structural welding applications. Designed for welders with basic SMAW knowledge, this course enhances their ability to work on structural steel projects that require high-strength welds. Participants will learn advanced welding techniques, tackle common structural welding challenges, and follow industry standards for welding quality and safety. With a strong focus on hands-on practice, this course will prepare welders for roles in structural fabrication, construction, and maintenance. ',
+      price: "₱10,000",
+      duration: "40 Hours",
+      link: "https://courselist.mfi.org.ph/courses/1177",
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Shielded_Metal_Arc_Welding.jpg/300px-Shielded_Metal_Arc_Welding.jpg"
     },
     {
-      id:78,
-      name:"Lathe Machine Operation",
-      description:"This course provides comprehensive training in the operation and maintenance of lathe machines. Participants will learn about the various types of lathes, their components, and machining techniques. The curriculum emphasizes hands-on experience, allowing students to perform turning operations, thread cutting, and part finishing. By the end of the course, participants will be proficient in setting up, operating, and troubleshooting lathe machines, preparing them for careers in machining and manufacturing.   ",
-      price:"₱10,000",
-      duration:"40 hours",
-      link:"https://courselist.mfi.org.ph/courses/60",
-      image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4D3rZoSGqbHMaVIihvxpnWB5jnoJNDVHuQ&s'
+      id: 78,
+      name: "Lathe Machine Operation",
+      description: "This course provides comprehensive training in the operation and maintenance of lathe machines. Participants will learn about the various types of lathes, their components, and machining techniques. The curriculum emphasizes hands-on experience, allowing students to perform turning operations, thread cutting, and part finishing. By the end of the course, participants will be proficient in setting up, operating, and troubleshooting lathe machines, preparing them for careers in machining and manufacturing.   ",
+      price: "₱10,000",
+      duration: "40 hours",
+      link: "https://courselist.mfi.org.ph/courses/60",
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4D3rZoSGqbHMaVIihvxpnWB5jnoJNDVHuQ&s'
     },
     {
       id: 79,
-      name:"LINUX Essentials (Linux System Administration) Cisco",
-      description:"The goal of this course is to provide academic institutions and students a ?starting place? for learning the linux operating system. Students who complete this course should understand Linux as an operating system, basic open source concepts, how Linux is used and the basics of the Linux Command line. This course implements a ?practice as you read? approach to learning. Each learner has hands-on access to a Linux virtual Machine to practice, explore and trial Linux command line concepts. The labs provide a learning environment where students interact with the Linux operating system and build on their skills and knowledge as they progress through the course. ",
-      price:"₱9,000",
-      duration:"42 hours",
-      link:'https://courselist.mfi.org.ph/courses/51',
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcvRyqXsI_ArgmbOWslFdXXiodn6sBfwoxw&s"
+      name: "LINUX Essentials (Linux System Administration) Cisco",
+      description: "The goal of this course is to provide academic institutions and students a ?starting place? for learning the linux operating system. Students who complete this course should understand Linux as an operating system, basic open source concepts, how Linux is used and the basics of the Linux Command line. This course implements a ?practice as you read? approach to learning. Each learner has hands-on access to a Linux virtual Machine to practice, explore and trial Linux command line concepts. The labs provide a learning environment where students interact with the Linux operating system and build on their skills and knowledge as they progress through the course. ",
+      price: "₱9,000",
+      duration: "42 hours",
+      link: 'https://courselist.mfi.org.ph/courses/51',
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqcvRyqXsI_ArgmbOWslFdXXiodn6sBfwoxw&s"
     },
     {
-      id:80,
-      name:"Marine Automation And Instrumentation",
-      description:"This module covers automation and instrumentation as applied to ship operations. Basic concepts in electronics are introduced to the course to enable the participants to understand succeeding instrumentation and automation concepts. The first module in automation covers the application of pneumatic and electro-pneumatic elements in ships. The succeeding module deals with Programmable Logic Controllers. Lastly. principles of measurement and control are also included. Actual instrumentation and control devices shall be provided to the trainees for them to operate, connect, test and/or calibrate. Control strategies (modes of control) including ON/OFF, proportional, integral and derivative controls will also be discussed. Hands-on exercises are an integral part of this training module so that the trainees can better appreciate the application of electronics, pneumatics, electro-pneumatics, programmable controller, instrumentation devices and controllers. Trainees should be able to connect or hook-up the devices for its proper operation and testing. ",
-      price:"₱17,500",
-      duration:'49 Hours',
-      link:"https://courselist.mfi.org.ph/courses/1795",
-      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQU6l9tiH0aN_-pIDh_o0I7mjNVx4hSdOGXA&s"
+      id: 80,
+      name: "Marine Automation And Instrumentation",
+      description: "This module covers automation and instrumentation as applied to ship operations. Basic concepts in electronics are introduced to the course to enable the participants to understand succeeding instrumentation and automation concepts. The first module in automation covers the application of pneumatic and electro-pneumatic elements in ships. The succeeding module deals with Programmable Logic Controllers. Lastly. principles of measurement and control are also included. Actual instrumentation and control devices shall be provided to the trainees for them to operate, connect, test and/or calibrate. Control strategies (modes of control) including ON/OFF, proportional, integral and derivative controls will also be discussed. Hands-on exercises are an integral part of this training module so that the trainees can better appreciate the application of electronics, pneumatics, electro-pneumatics, programmable controller, instrumentation devices and controllers. Trainees should be able to connect or hook-up the devices for its proper operation and testing. ",
+      price: "₱17,500",
+      duration: '49 Hours',
+      link: "https://courselist.mfi.org.ph/courses/1795",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQU6l9tiH0aN_-pIDh_o0I7mjNVx4hSdOGXA&s"
+    },
+    {
+      id: 81,
+      name: "Marine Electrical Training (Electrical Training For Marine Engineers)",
+      description: "The Marine Electrical Training course is designed to provide participants with specialized knowledge and practical skills essential for working with electrical systems onboard marine vessels. This course covers a wide range of topics specific to marine electrical systems, including installation, maintenance, troubleshooting, and safety practices. Participants will gain hands-on experience through practical exercises, simulations, and real-world scenarios, preparing them for roles in marine engineering, shipbuilding, and maritime operations.   ",
+      price: "₱10,500",
+      duration: "40 hours",
+      link: 'https://courselist.mfi.org.ph/courses/1736',
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTIQZpZksKd77wKPDyKXBFqW7_RpvGCPZxQ&s"
+    },
+    {
+      id: 82,
+      name: "Marine Electrical Training (Electrical Training For Marine Engineers) (Pasay Branch)",
+      description: "Modern ships are increasingly dependent upon the electrical and control engineering installations for their operation. It is therefore essential that sea-going and shore-based staff have a good appreciation of such systems, ensuring that they are maintained in an efficient operational and safe condition. Over the six (6) days of the course there will be informal, but structured presentations and discussion sessions. More than half of the training duration is dedicated to hands on activities. We adopt the attitude that most people who will study marine electrical technology do so for very practical reasons and with this in mind many practical applications should be demonstrated during lectures to reinforce theory while holding the interest of the students. Delegates receive a certificate upon successful completion of the course. A practical exam will be conducted at the end of the course so as to validate the transfer of knowledge during the training. ",
+      price: "₱10,500",
+      duration: "40 hours",
+      link: "https://courselist.mfi.org.ph/courses/1854",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaTIQZpZksKd77wKPDyKXBFqW7_RpvGCPZxQ&s"
+    },
+    {
+      id:83,
+      name:"MARINE REFRIGERATION AND AIRCONDITIONING - PASAY BRANCH",
+      description:"This course deals with the fundamental concepts of Marine Refrigeration and Air Conditioning Systems. It covers lessons and activities on Refrigeration and Airconditioning units, Moiler chart / P-H Diagram, refrigeration and airconditioning instruments, servicing operations, maintaining operations and troubleshooting operations.   ",
+      price:"₱10,000",
+      duration:"40 hours",
+      link:"https://courselist.mfi.org.ph/courses/3051",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-sZmXZVLTKIQMsA9WJQLHx0r31pvaCNB-g&s"
+    },
+    {
+      id:84,
+      name:"Master Electrician (Open Schedule)",
+      description:"This is a packaged course which is a combination of the different short courses that includes the following: 1. Building Wiring Installation and Maintenance 2. Industrial Electrician 3. Electrical Control Wiring Installation and Troubleshooting 4. Advanced Industrial Motor Controls Take the four course modules in succession.  After completing all modules, another certificate titled MASTER ELECTRICIAN is issued.  A reviewer for the Registered Master Electrician(RME) exam administered by Professional Regulatory Commission (PRC) is given as a bonus. This program is designed not only to aid the the participants in passing the RME exam but provides real skills required of a Registered Master Electrician. Please take note that PRC requires some years of related work experience prior to taking the RME exams.  As a guide, below are PRC’s requirements in taking the Registered Master Electrician exams: 1) Notarized Certificate of Experience signed by an REE or RME whose registration is prior to the date of employment 2) Certificate of Employment or service record a.  For BSEE graduates / completed three (3) years BSEE or three (3) year course in ElectricalTechnology – at least one (1) year apprenticeship in electrical wiring and installation, operation and maintenance b.  Two (2) year vocational electrician’s course – at least  two (2) years apprenticeship in electrical installation, operation and maintenance c.  One (1) year vocational electrician’s course – at least three (3) years apprenticeship in electrical installation, operation and maintenance d.  High School graduates – at least five (5) years apprenticeship in electrical wiring installation, operation and maintenance ",
+      price:"₱34,300",
+      duration:"256 Hours",
+      link:'https://courselist.mfi.org.ph/courses/874',
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIBv9yWCFXEGop5TdqNFMLkM7jm1pQKKJBLA&s"
+    },
+    {
+      id:85,
+      name:'Mechanical Basics',
+      description:"The Mechanical Basics course provides foundational knowledge and skills necessary for understanding basic mechanical principles and concepts. Designed for individuals new to the field or those seeking to refresh their knowledge, this course covers essential topics such as mechanics, materials, tools, and basic machine operations. Participants will engage in hands-on activities to reinforce theoretical concepts, preparing them for further studies in mechanical engineering or related technical fields. This course is ideal for students, technicians, and anyone interested in gaining a solid understanding of mechanical fundamentals. ",
+      price:"₱5,000",
+      duration:"24 Hours",
+      link:"https://courselist.mfi.org.ph/courses/875",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6eV_GTiFHPknLJCS3HaOavEK36hjs_xJ_Q&s"
+    },
+    {
+      id:86,
+      name:"Mechanical Fitter Training",
+      description:"The Mechanical Fitter course equips participants with the skills and knowledge necessary for installing, assembling, maintaining, and repairing mechanical equipment and systems. This course focuses on the core competencies of mechanical fitting, including blueprint reading, equipment alignment, hydraulic and pneumatic systems, and precision measurement. Participants will gain hands-on experience working with various tools and machinery, emphasizing safety practices and industry standards. Suitable for those pursuing a career as a mechanical fitter or in general mechanical maintenance, this course prepares learners to work in manufacturing, construction, and maintenance environments. ",
+      price:"₱10,000",
+      duration:"40 hours",
+      link:'https://courselist.mfi.org.ph/courses/3186',
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD2zFSHeRu6mFFbKbhX8GpJSUm1LLRpqKLQ&s"
+    },
+    {
+      id:87,
+      name:"MECHATRONICS ESSENTIALS - (EP &PLC) ",
+      description:"The Mechatronics Essentials - EP & PLC course covers the fundamental principles of mechatronics, focusing on electropneumatic systems (EP) and programmable logic controllers (PLC) for automation and control applications.",
+      price:"₱16,500",
+      duration:"70 hours",
+      link:"https://courselist.mfi.org.ph/courses/3205",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5nUPtVrNpYQ5pIjZw3kKVexN10ERx3X24Q&s"
     }
   ]
   res.status(200).json(courseList);
