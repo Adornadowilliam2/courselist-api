@@ -764,6 +764,286 @@ export default function handler(req, res) {
       duration:"70 hours",
       link:"https://courselist.mfi.org.ph/courses/3205",
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5nUPtVrNpYQ5pIjZw3kKVexN10ERx3X24Q&s"
+    },
+    {
+      id:88,
+      name:"Mechatronics Essentials - EP & PLC (Pasay Branch)",
+      description:"The Mechatronics Essentials - EP & PLC course covers the fundamental principles of mechatronics, focusing on electropneumatic systems (EP) and programmable logic controllers (PLC) for automation and control applications.",
+      price:"₱14,500",
+      duration:"70 hours",
+      link:"https://courselist.mfi.org.ph/courses/3205",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5nUPtVrNpYQ5pIjZw3kKVexN10ERx3X24Q&s"
+    },
+    {
+      id:89,
+      name:"Mechatronics Essentials (Mecha Ess)",
+      description:"This course contains two training modules including Electro-Pneumatics (EP) and Programmable Logic Controls (PLC). The first module deals with the study of the operation, design and function of various electro-pneumatic elements commonly used in the of industry including manufacturing, processing, transportation and utilities. It presents different electro-pneumatic symbols and explains how they are used in the schematic diagrams, in accordance with ANSI, ISO and DIN standards. Sufficient time is allocated for hands-on exercises in setting up and troubleshooting electro-pneumatic circuits while applying safety. The next module introduces programmable logic controllers – its definition, basic capabilities, functional features, benefits, specification, application, communication, operation, installation, troubleshooting, maintenance and programming requirements. Participants shall appreciate the advantages of having a PLC controlled system compared to conventional control systems. More emphasis is given to the actual set-up and development of PLC programs and applying them with real mechatronic devices (electrical and electro-pneumatic devices) which comprise the whole automation system. Hands-on activities on program design, installation, testing and simulation of various PLC circuits are part of the whole training module. ",
+      price:"₱17,250",
+      duration:'68 Hours',
+      link:"https://courselist.mfi.org.ph/courses/2651",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytR4OnYvBPM0sYBgbhA-qmfwo3HIJaDG9YA&s"
+    },
+    {
+      id:90,
+      name:"Milling Machine Operation",
+      description:"This course provides in-depth training in the operation and maintenance of milling machines. Participants will learn about the different types of milling machines, their components, and various milling techniques. The curriculum emphasizes hands-on practice, allowing students to perform operations such as face milling, contour milling, and slotting. By the end of the course, participants will be skilled in setting up, operating, and troubleshooting milling machines, preparing them for careers in manufacturing and machining. ",
+      price:"₱10,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/61",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytR4OnYvBPM0sYBgbhA-qmfwo3HIJaDG9YA&s"
+    },
+    {
+      id:91,
+      name:"Mobile Development With React Native",
+      description:"React Native is a popular framework for building cross-platform mobile applications using JavaScript and React. It allows developers to write code once and deploy it across both iOS and Android platforms, saving time and effort compared to building separate native apps for each platform. ",
+      price:"₱7,500",
+      duration:"48 Hours",
+      link:"https://courselist.mfi.org.ph/courses/3066",
+      image:"https://media.licdn.com/dms/image/v2/C4D12AQGVl4X6rA0uew/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1652265949718?e=2147483647&v=beta&t=kuX_J3r7gOF_6WiY-3zkflDbO_ecSu_TE7q8z3TgJlE"
+    },
+    {
+      id:92,
+      name:"Motorcycle Engine Maintenance",
+      description:"This course focuses on the essential skills and knowledge required for effective motorcycle engine maintenance, including comprehensive training on the overhauling of both engine and transmission systems. Participants will gain a deep understanding of engine components, operation, and maintenance procedures. Through a combination of theoretical knowledge and hands-on practice, students will learn how to perform engine diagnostics, routine servicing, and troubleshooting techniques, ensuring optimal performance and longevity of motorcycle engines and transmissions. ",
+      price:"₱5,000",
+      duration:"30 Hours",
+      link:"https://courselist.mfi.org.ph/courses/2536",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYlEoPj8DmKrwKBsWukKLfdL9LuvYCeYAbw&s"
+    },
+    {
+      id:93,
+      name:"Motorcycle Maintenance Essentials",
+      description:"This course provides foundational skills and knowledge in motorcycle maintenance, focusing on essential procedures to keep motorcycles in top condition. Participants will learn about various motorcycle systems, including the engine, transmission, electrical, and braking systems. Through hands-on practice, they’ll gain proficiency in diagnostics, preventive maintenance, and basic repair techniques, empowering them to address common issues and perform routine maintenance confidently. ",
+      price:"₱5,000",
+      duration:"28 Hours",
+      link:"https://courselist.mfi.org.ph/courses/2519",
+      image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4ZZjmde0ZwlZpa3gE24RFR9TacvL_gUTtg&s'
+    },
+    {
+      id:94,
+      name:"Office Productivity",
+      description:"The course covers the major application groups of Microsoft Office – MS WORD, MS EXCEL, MS POWERPOINT, and the most recent Windows OS. The course allows the participants hands-on computer experience to investigate and explore the different capabilities inside the Windows Office Package. During the course the participant will produce documents, worksheets and presentations. ",
+      price:"₱5,800",
+      duration:"₱5,800",
+      link:"https://courselist.mfi.org.ph/courses/1",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4rHX1WGRoDitsSD0msU2M2IPDiXLfgF4QA&s"
+    },
+    {
+      id:95,
+      name:"PHP And MySQL Training",
+      description:"PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used Open Source general-purpose scripting language that is especially suited for Web development and can be embedded into HTML. The course is intended for aspiring and experienced web developers and programmers. To enhance students learning, the course will focus mainly on the creation of a threaded workshop. After the course, the students will be able to come-up with a web site that interacts with a MySQL Database (also an Open Source Product). ",
+      price:"₱7,200",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/2291",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQRLDKSsYgl024UckUbRwnZwsK18VB1ztCTA&s"
+    },
+    {
+      id:96,
+      name:"Pipefitting",
+      description:"The Pipefitting course provides participants with the foundational skills and knowledge needed for the installation, assembly, maintenance, and repair of piping systems in various industrial and construction settings. This hands-on course covers essential topics, including blueprint reading, pipe layout, cutting, threading, welding, and fitting techniques. With an emphasis on safety, precision, and industry standards, students will learn to work with a variety of piping materials such as steel, PVC, and copper. This course is ideal for those seeking a career as a pipefitter in industries like manufacturing, oil and gas, construction, and plumbing. ",
+      price:"₱10,000",
+      duration:"48 hours",
+      link:"https://courselist.mfi.org.ph/courses/1726",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1Mc5B2tMXNBr8hUWWV9D_u9RHI1Durg_qQ&s"
+    },
+    {
+      id:97,
+      name:"PLC Programming For Advanced User",
+      description:"The PLC Programming for Advanced Users course is an intensive program designed for professionals seeking to enhance their skills in PLC programming and industrial automation. This course delves into programming techniques, control strategies, and advanced troubleshooting methods, equipping participants with the tools necessary to handle intricate control systems and optimize performance. Participants will explore advanced PLC programming languages and structures, learn to design and implement complex control algorithms, and integrate PLC systems with various industrial technologies. Through a combination of theoretical knowledge and hands-on practice, this course aims to develop mastery in managing and troubleshooting advanced PLC applications. ",
+      price:'₱10,000',
+      duration:"35 hours",
+      link:'https://courselist.mfi.org.ph/courses/2148',
+      image:"https://i.ytimg.com/vi/1NpE7sV0Nq0/maxresdefault.jpg"
+    },
+    {
+      id:98,
+      name:'PLC WIRING INSTALLATION MAINTENANCE AND TROUBLESHOOTING (formerly PLC)',
+      description:"PLC Wiring Installation, Maintenance, and Troubleshooting (formerly PLC) involves the installation, routine maintenance, and troubleshooting of programmable logic controllers (PLCs) to ensure efficient operation and resolve any technical issues, ensuring optimal performance of automated systems.",
+      price:"₱10,000",
+      duration:'40 Hours',
+      link:'https://courselist.mfi.org.ph/courses/3196',
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0o1KexyQBgbIb74UwtOJwNHGpqASXPubZFg&s"
+    },
+    {
+      id:99,
+      name:'PLC WIRING INSTALLATION MAINTENANCE AND TROUBLESHOOTING (PASAY BRANCH)',
+      description:"This course covers the operation, application, basic capabilities, functional features, specifications, troubleshooting procedures and preventive maintenance of a programmable logic controller (PLC). In this course, the participant develops an appreciation of mechatronics and the many advantages of a PLC compared to conventional control systems. Emphasis is given to the actual hook-up of the PLC to common electrical and electro-pneumatic devices such as lamps, relays, contactors, solenoid valves, timers, counters, directional valves and cylinders. Hands-on exercises on testing and simulation of various practical applications with a PLC are also covered.  ",
+      price:"₱8,500",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/2880",
+      image:"https://m.media-amazon.com/images/I/71TNRXFQOML._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      id:100,
+      name:'PLC Wiring Installation, Maintenance And Troubleshooting',
+      description:"The PLC Wiring, Installation, Maintenance, and Troubleshooting course is designed for professionals seeking to enhance their skills in the practical aspects of PLC systems. This comprehensive course covers the essential techniques and best practices for wiring, installing, maintaining, and troubleshooting PLC systems effectively. Participants will gain hands-on experience and theoretical knowledge to ensure reliable and efficient PLC operations in industrial environments. ",
+      price:"₱10,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/1839",
+      image:"https://i.ytimg.com/vi/x_GD2c11tX0/maxresdefault.jpg"
+    },
+    {
+      id:101,
+      name:"Practical Electricity And Electronics",
+      description:"The Practical Electricity and Electronics course is designed to provide participants with hands-on experience and practical skills in fundamental electrical and electronic principles. This course covers essential concepts, theories, and applications necessary for understanding, designing, and troubleshooting electrical and electronic circuits. Participants will engage in practical exercises, laboratory sessions, and projects to reinforce theoretical knowledge and develop proficiency in practical applications. ",
+      price:"₱6,000",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/1835",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZM96B5Ww5vPnlnnqZEUdinkefjz43DrgQig&s"
+    },
+    {
+      id:101,
+      name:"Preventive Maintenance System",
+      description:"A Preventive Maintenance System focuses on regularly scheduled inspections, servicing, and repairs to equipment and machinery to prevent breakdowns, extend lifespan, and ensure optimal performance.",
+      price:"₱5,700",
+      duration:"21 hours",
+      link:"https://courselist.mfi.org.ph/courses/2845",
+      image:"https://campbellinc.com/wp-content/uploads/2020/04/The-Benefits-of-Preventive-Maintenance-12-3-19-v2-scaled.jpg"
+    },
+    {
+      id:102,
+      name:"Program Logic Formulation With C++ Programming",
+      description:"This course deals with the fundamentals of computer programming. This module will give the students an understanding of data representation, data structure, algorithm, flowcharting and hands-on experience in the techniques of structured programming using the most popular language C++. ",
+      price:"₱7,500",
+      duration:"₱7,500",
+      link:"https://courselist.mfi.org.ph/courses/1662",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUn1YbFgqosZm-wl2cf4dSQRzVz4ssQo6SA&s"
+    },
+    {
+      id:103,
+      name:"Python Fundamentals",
+      description:"An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and debug it. Designed for students with or without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. What you’ll learn: ● Functions, Variables ● Conditionals ● Loops ● Exceptions ● Libraries ● Unit Tests ● File I/O ● Regular Expressions ● Object-Oriented Programming ● Et Cetera ",
+      price:"₱7,500",
+      duration:"40 Hours",
+      link:"https://courselist.mfi.org.ph/courses/3063",
+      image:"https://www.freecodecamp.org/news/content/images/size/w2000/2020/07/1_5YaueU4meqq-bCM8y3OlkQ.jpeg",
+
+    },
+    {
+      id:104,
+      name:"Refrigeration And Air-conditioning Mechanic (RACME)",
+      description:"This course deals with the Fundamentals of Refrigeration and Air-conditioning System. It covers the details of the Refrigeration Cycle,  Four Major components and its function in the RAC System, Mechanical Vapor Compression process, Refrigerants and its underlying properties at different operating temperatures. Procedures in Recovery, Vacuuming and Charging of Refrigerant in the  system are also given emphasis. Maintenance and Troubleshooting techniques of unit are also covered. ",
+      price:"₱9,000",
+      duration:"60 hours",
+      link:"https://courselist.mfi.org.ph/courses/25",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-X7ixKEA0KtOWyqIbhqs8K-JwFTb6g3yhQ&s"
+    },
+    {
+      id:105,
+      name:"Refrigeration And Airconditioning Mechanic (Pasay Branch)",
+      description:"This course deals with the Fundamentals of Refrigeration and Air-conditioning System. It covers the details of the Refrigeration Cycle. The Four Major components and its function in the RAC System, Mechanical Vapor Compression process, Refrigerants and its underlying properties at different operating temperatures. A procedure in Recovery, Vacuuming and Charging of Refrigerant in the system is also given emphasis. Maintenance and Troubleshooting techniques of unit are also covered. ",
+      price:"₱8,500",
+      duration:"60 hours",
+      link:"https://courselist.mfi.org.ph/courses/25",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-X7ixKEA0KtOWyqIbhqs8K-JwFTb6g3yhQ&s"
+    },
+    {
+      id:106,
+      name:'Sensorics (Industrial Sensors)',
+      description:"This course provides an in-depth exploration of various industrial sensors commonly used in automation and control systems. It covers the principles of operation, key specifications, and critical parameters of different sensor types. Additionally, the course highlights practical applications in industrial settings, equipping participants with the knowledge needed to select, configure, and utilize sensors effectively for optimal system performance. ",
+      price:"₱5,600",
+      duration:"35 hours",
+      link:"https://courselist.mfi.org.ph/courses/3242",
+      image:"https://media.gettyimages.com/id/709136431/photo/hand-operating-sensoric-device.jpg?s=612x612&w=gi&k=20&c=T-UG9akjEgYWMEg8mNUg3Jie9GegwAAtkmzmlT8RfNE="
+    },
+    {
+      id:107,
+      name:"Supervisory Development Program",
+      description:'This program is designed to help the supervisor understand the critical areas of supervision as well as identify those skills that can help them become more effective leaders in order to successfully get work done through others, with the end in view of increasing the company’s productivity, thereby making themselves ever viable to the organization. ',
+      price:"₱7,200",
+      duration:"21 hours",
+      link:"https://courselist.mfi.org.ph/courses/1085",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59NzJEZf-gtkyHde0t2EwQig8LKFbLpV5vA&s"
+    },
+    {
+      id:108,
+      name:"System Integration And Automation ",
+      description:"The System Integration and Automation course provides a comprehensive exploration of the methodologies and technologies involved in integrating various systems and automating processes within industrial environments. Designed for engineers, technicians, and automation specialists, this course covers the principles and practices required to effectively combine disparate systems into cohesive, automated solutions that enhance operational efficiency and productivity. ",
+      price:"₱6,500",
+      duration:"35 hours",
+      link:"https://courselist.mfi.org.ph/courses/3115",
+      image:"https://images.squarespace-cdn.com/content/v1/55181a36e4b05c72e7f6a2a3/1587404952565-SM6OXHGS3RRY7DYSRZKN/Global-Industrial-Automation-Market-in-Life-Sciences-Industry-1024x684.jpg?format=1500w"
+    },
+    {
+      id:109,
+      name:"Trade Test For Hydraulic Technician - Aureol Global",
+      description:"The Trade Test for Hydraulic Technicians at Aureol Global evaluates the skills and expertise required to install, maintain, and repair hydraulic systems, ensuring proficiency in the field.",
+      price:"₱7,000",
+      duration:"8 hours",
+      link:"https://courselist.mfi.org.ph/courses/3236",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNBJ9DYipisKm3GHPpmyE1HNZpT0PkfrgNIQ&s"
+    },
+    {
+      id:110,
+      name:"Trade Test For Mechanical Fitter - Aureol Global",
+      description:"Trade Test For Mechanical Fitter - Aureol Global",
+      price:"₱6,800",
+      duration:"8 hours",
+      link:"https://courselist.mfi.org.ph/courses/3235",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5K0faffalmCemUnNYoZp11flEyoRFSwuW2g&s"
+    },
+    {
+      id:111,
+      name:"Train The Trainers",
+      description:" This course introduces to the participants the basic competencies in delivering an effective training session. It focuses on three main training requirements: plan and develop a training session, utilize appropriate teaching methodologies, and enhance training effectiveness through technology.   COURSE OUTLINE: MODULE 1: PLANNING TRAINING SESSION  MODULE 2: FACILITATING A LEARNING SESSION MODULE 3: ENHANCING TRAINING EFFECTIVENESS THROUGH TECHNOLOGY    ",
+      price:"₱3,998",
+      duration:"24 hours",
+      link:"https://courselist.mfi.org.ph/courses/2909",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0F77Lrb8cHz0QClsoIl2CZMKPGIfhjNylw&s"
+    },
+    {
+      id:112,
+      name:"Trainers Methodology (TM) Level I",
+      description:"This qualification is designed to enhance the knowledge, skills, positive attitude and work values of the learner in accordance with the prevailing standards in the Technical and Vocational Education and Training (TVET) sector. This encompasses competencies required of a Technical- Vocational Trainer to perform the tasks in the areas of instructional delivery/facilitation, competency assessment, and maintenance of training resources/facilities. ",
+      price:"₱15,000",
+      duration:"120 hours",
+      link:"https://courselist.mfi.org.ph/courses/2604",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUuhYYj0FaEl9G4AAcCg0IJQ-gakj3A-e-g&s"
+    },
+    {
+      id:113,
+      name:"Troubleshooting PLC Based Controlled Systems (TPLCBCS)",
+      description:"The Troubleshooting PLC-Based Controlled Systems course is designed to provide professionals with the expertise needed to diagnose and resolve issues within PLC-controlled environments. This course covers both theoretical and practical aspects of troubleshooting, focusing on common problems, diagnostic techniques, and system maintenance to ensure optimal performance and reliability of PLC-based control systems. Participants will gain hands-on experience with troubleshooting methodologies, diagnostic tools, and best practices for maintaining PLC systems. By exploring real-world scenarios and conducting practical exercises, learners will develop the skills necessary to efficiently identify, analyze, and fix issues that can impact automated processes. ",
+      price:"₱6,000",
+      duration:"35 Hours",
+      link:'https://courselist.mfi.org.ph/courses/2643',
+      image:"https://i.ytimg.com/vi/x_GD2c11tX0/maxresdefault.jpg"
+    },
+    {
+      id:114,
+      name:"Under Chassis Mechanic",
+      description:"This course focuses on the maintenance and repair of vehicle undercarriage systems, including suspension, steering, and braking systems. Participants will gain knowledge of various under chassis components and their functions. The training includes hands-on experience with tools and diagnostic equipment to troubleshoot issues. By the end of the course, students will be able to perform routine inspections, maintenance, and repairs on undercarriage systems, preparing them for careers as under chassis mechanics. ",
+      price:"₱6,000",
+      duration:"60 Hours",
+      link:"https://courselist.mfi.org.ph/courses/1764",
+      image:"https://thumbs.dreamstime.com/b/auto-mechanic-under-car-3649800.jpg"
+    },
+    {
+      id:115,
+      name:"Web Development With ReactJS",
+      description:"React JS is a JavaScript library for building user interfaces and web applications. It is primarily used for developing complex web UIs and single-page applications that require frequent updates. With React JS, you write your code using React and it compiles it to plain JavaScript that can run in any browser. ",
+      price:"₱7,500",
+      duration:'48 Hours',
+      link:"https://courselist.mfi.org.ph/courses/3065",
+      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahnQyBXL4n443hMbTnD9OTFCwKlQ4kII2PA&s"
+    },
+    {
+      id:116,
+      name:"Work Attitude And Values Enhancement For The New Normal",
+      description:"Work Attitude and Values Enhancement for the New Normal focuses on developing essential skills and positive attitudes to adapt effectively to the evolving workplace environment.",
+      price:"₱4,000",
+      duration:"21 hours",
+      link:"https://courselist.mfi.org.ph/courses/2858",
+      image:"https://crossworks.ph/wp-content/uploads/2023/04/CourseImage-EB-WAVE.png"
+    },
+    {
+      id: 117,
+      name:"Workplace Communication Essentials",
+      description:"Workplace Communication Essentials covers the key skills and strategies needed for effective communication in professional settings, promoting collaboration and clear information exchange.",
+      price:"₱4,000",
+      duration:"21 hours",
+      link:"https://courselist.mfi.org.ph/courses/2669",
+      image:"https://blog.acesence.com/wp-content/uploads/2023/04/Blog-covers-1280-%C3%97-720-px-3840-%C3%97-2160-px-4.png"
     }
   ]
   res.status(200).json(courseList);
