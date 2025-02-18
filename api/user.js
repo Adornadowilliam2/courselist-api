@@ -482,6 +482,7 @@ export default function handler(req, res) {
       name: "Fiber Optics Technology",
       description: "This course aims to equip participants with essential knowledge and practical skills in fiber optics technology, aligning with current industry practices and standards. Participants will explore different types of fiber optic cables and connectors, as well as the tools necessary for installation. The course includes hands-on training in installation methods, termination procedures, and splicing techniques. Additionally, participants will learn how to test installed fiber optic cables to meet established quality standards, ensuring their readiness for use in various applications. ",
       price: "₱9,000",
+      duration:"24 hours",
       link: 'https://courselist.mfi.org.ph/courses/1740',
       image: "https://www.nai-group.com/wp-content/uploads/2018/09/shutterstock_526546213.jpg"
     },
