@@ -892,7 +892,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZM96B5Ww5vPnlnnqZEUdinkefjz43DrgQig&s"
     },
     {
-      id:101,
+      id:102,
       name:"Preventive Maintenance System",
       description:"A Preventive Maintenance System focuses on regularly scheduled inspections, servicing, and repairs to equipment and machinery to prevent breakdowns, extend lifespan, and ensure optimal performance.",
       price:"₱5,700",
@@ -901,7 +901,7 @@ export default function handler(req, res) {
       image:"https://campbellinc.com/wp-content/uploads/2020/04/The-Benefits-of-Preventive-Maintenance-12-3-19-v2-scaled.jpg"
     },
     {
-      id:102,
+      id:103,
       name:"Program Logic Formulation With C++ Programming",
       description:"This course deals with the fundamentals of computer programming. This module will give the students an understanding of data representation, data structure, algorithm, flowcharting and hands-on experience in the techniques of structured programming using the most popular language C++. ",
       price:"₱7,500",
@@ -910,7 +910,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUn1YbFgqosZm-wl2cf4dSQRzVz4ssQo6SA&s"
     },
     {
-      id:103,
+      id:104,
       name:"Python Fundamentals",
       description:"An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and debug it. Designed for students with or without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. What you’ll learn: ● Functions, Variables ● Conditionals ● Loops ● Exceptions ● Libraries ● Unit Tests ● File I/O ● Regular Expressions ● Object-Oriented Programming ● Et Cetera ",
       price:"₱7,500",
@@ -920,7 +920,7 @@ export default function handler(req, res) {
 
     },
     {
-      id:104,
+      id:105,
       name:"Refrigeration And Air-conditioning Mechanic (RACME)",
       description:"This course deals with the Fundamentals of Refrigeration and Air-conditioning System. It covers the details of the Refrigeration Cycle,  Four Major components and its function in the RAC System, Mechanical Vapor Compression process, Refrigerants and its underlying properties at different operating temperatures. Procedures in Recovery, Vacuuming and Charging of Refrigerant in the  system are also given emphasis. Maintenance and Troubleshooting techniques of unit are also covered. ",
       price:"₱9,000",
@@ -929,7 +929,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-X7ixKEA0KtOWyqIbhqs8K-JwFTb6g3yhQ&s"
     },
     {
-      id:105,
+      id:106,
       name:"Refrigeration And Airconditioning Mechanic (Pasay Branch)",
       description:"This course deals with the Fundamentals of Refrigeration and Air-conditioning System. It covers the details of the Refrigeration Cycle. The Four Major components and its function in the RAC System, Mechanical Vapor Compression process, Refrigerants and its underlying properties at different operating temperatures. A procedure in Recovery, Vacuuming and Charging of Refrigerant in the system is also given emphasis. Maintenance and Troubleshooting techniques of unit are also covered. ",
       price:"₱8,500",
@@ -938,7 +938,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-X7ixKEA0KtOWyqIbhqs8K-JwFTb6g3yhQ&s"
     },
     {
-      id:106,
+      id:107,
       name:'Sensorics (Industrial Sensors)',
       description:"This course provides an in-depth exploration of various industrial sensors commonly used in automation and control systems. It covers the principles of operation, key specifications, and critical parameters of different sensor types. Additionally, the course highlights practical applications in industrial settings, equipping participants with the knowledge needed to select, configure, and utilize sensors effectively for optimal system performance. ",
       price:"₱5,600",
@@ -947,7 +947,7 @@ export default function handler(req, res) {
       image:"https://media.gettyimages.com/id/709136431/photo/hand-operating-sensoric-device.jpg?s=612x612&w=gi&k=20&c=T-UG9akjEgYWMEg8mNUg3Jie9GegwAAtkmzmlT8RfNE="
     },
     {
-      id:107,
+      id:108,
       name:"Supervisory Development Program",
       description:'This program is designed to help the supervisor understand the critical areas of supervision as well as identify those skills that can help them become more effective leaders in order to successfully get work done through others, with the end in view of increasing the company’s productivity, thereby making themselves ever viable to the organization. ',
       price:"₱7,200",
@@ -956,7 +956,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59NzJEZf-gtkyHde0t2EwQig8LKFbLpV5vA&s"
     },
     {
-      id:108,
+      id:109,
       name:"System Integration And Automation ",
       description:"The System Integration and Automation course provides a comprehensive exploration of the methodologies and technologies involved in integrating various systems and automating processes within industrial environments. Designed for engineers, technicians, and automation specialists, this course covers the principles and practices required to effectively combine disparate systems into cohesive, automated solutions that enhance operational efficiency and productivity. ",
       price:"₱6,500",
@@ -965,7 +965,7 @@ export default function handler(req, res) {
       image:"https://images.squarespace-cdn.com/content/v1/55181a36e4b05c72e7f6a2a3/1587404952565-SM6OXHGS3RRY7DYSRZKN/Global-Industrial-Automation-Market-in-Life-Sciences-Industry-1024x684.jpg?format=1500w"
     },
     {
-      id:109,
+      id:110,
       name:"Trade Test For Hydraulic Technician - Aureol Global",
       description:"The Trade Test for Hydraulic Technicians at Aureol Global evaluates the skills and expertise required to install, maintain, and repair hydraulic systems, ensuring proficiency in the field.",
       price:"₱7,000",
@@ -974,7 +974,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNBJ9DYipisKm3GHPpmyE1HNZpT0PkfrgNIQ&s"
     },
     {
-      id:110,
+      id:111,
       name:"Trade Test For Mechanical Fitter - Aureol Global",
       description:"Trade Test For Mechanical Fitter - Aureol Global",
       price:"₱6,800",
@@ -983,7 +983,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5K0faffalmCemUnNYoZp11flEyoRFSwuW2g&s"
     },
     {
-      id:111,
+      id:112,
       name:"Train The Trainers",
       description:" This course introduces to the participants the basic competencies in delivering an effective training session. It focuses on three main training requirements: plan and develop a training session, utilize appropriate teaching methodologies, and enhance training effectiveness through technology.   COURSE OUTLINE: MODULE 1: PLANNING TRAINING SESSION  MODULE 2: FACILITATING A LEARNING SESSION MODULE 3: ENHANCING TRAINING EFFECTIVENESS THROUGH TECHNOLOGY    ",
       price:"₱3,998",
@@ -992,7 +992,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0F77Lrb8cHz0QClsoIl2CZMKPGIfhjNylw&s"
     },
     {
-      id:112,
+      id:113,
       name:"Trainers Methodology (TM) Level I",
       description:"This qualification is designed to enhance the knowledge, skills, positive attitude and work values of the learner in accordance with the prevailing standards in the Technical and Vocational Education and Training (TVET) sector. This encompasses competencies required of a Technical- Vocational Trainer to perform the tasks in the areas of instructional delivery/facilitation, competency assessment, and maintenance of training resources/facilities. ",
       price:"₱15,000",
@@ -1001,7 +1001,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUuhYYj0FaEl9G4AAcCg0IJQ-gakj3A-e-g&s"
     },
     {
-      id:113,
+      id:114,
       name:"Troubleshooting PLC Based Controlled Systems (TPLCBCS)",
       description:"The Troubleshooting PLC-Based Controlled Systems course is designed to provide professionals with the expertise needed to diagnose and resolve issues within PLC-controlled environments. This course covers both theoretical and practical aspects of troubleshooting, focusing on common problems, diagnostic techniques, and system maintenance to ensure optimal performance and reliability of PLC-based control systems. Participants will gain hands-on experience with troubleshooting methodologies, diagnostic tools, and best practices for maintaining PLC systems. By exploring real-world scenarios and conducting practical exercises, learners will develop the skills necessary to efficiently identify, analyze, and fix issues that can impact automated processes. ",
       price:"₱6,000",
@@ -1010,7 +1010,7 @@ export default function handler(req, res) {
       image:"https://i.ytimg.com/vi/x_GD2c11tX0/maxresdefault.jpg"
     },
     {
-      id:114,
+      id:115,
       name:"Under Chassis Mechanic",
       description:"This course focuses on the maintenance and repair of vehicle undercarriage systems, including suspension, steering, and braking systems. Participants will gain knowledge of various under chassis components and their functions. The training includes hands-on experience with tools and diagnostic equipment to troubleshoot issues. By the end of the course, students will be able to perform routine inspections, maintenance, and repairs on undercarriage systems, preparing them for careers as under chassis mechanics. ",
       price:"₱6,000",
@@ -1019,7 +1019,7 @@ export default function handler(req, res) {
       image:"https://thumbs.dreamstime.com/b/auto-mechanic-under-car-3649800.jpg"
     },
     {
-      id:115,
+      id:116,
       name:"Web Development With ReactJS",
       description:"React JS is a JavaScript library for building user interfaces and web applications. It is primarily used for developing complex web UIs and single-page applications that require frequent updates. With React JS, you write your code using React and it compiles it to plain JavaScript that can run in any browser. ",
       price:"₱7,500",
@@ -1028,7 +1028,7 @@ export default function handler(req, res) {
       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahnQyBXL4n443hMbTnD9OTFCwKlQ4kII2PA&s"
     },
     {
-      id:116,
+      id:117,
       name:"Work Attitude And Values Enhancement For The New Normal",
       description:"Work Attitude and Values Enhancement for the New Normal focuses on developing essential skills and positive attitudes to adapt effectively to the evolving workplace environment.",
       price:"₱4,000",
@@ -1037,7 +1037,7 @@ export default function handler(req, res) {
       image:"https://crossworks.ph/wp-content/uploads/2023/04/CourseImage-EB-WAVE.png"
     },
     {
-      id: 117,
+      id: 118,
       name:"Workplace Communication Essentials",
       description:"Workplace Communication Essentials covers the key skills and strategies needed for effective communication in professional settings, promoting collaboration and clear information exchange.",
       price:"₱4,000",
