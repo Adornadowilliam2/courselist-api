@@ -581,7 +581,7 @@ export default function handler(req, res) {
       name: "Industrial Electrician",
       description: "The Industrial Electrician Course is designed to provide comprehensive training for individuals aspiring to become industrial electricians or enhance their existing skills in industrial electrical systems. This course covers essential theoretical knowledge, practical skills, and hands-on experience necessary to install, maintain, troubleshoot, and repair electrical equipment and systems in industrial settings. Participants will learn about electrical safety practices, regulations, and standards applicable to industrial environments. They will gain proficiency in reading electrical diagrams, interpreting technical specifications, and using specialized tools and equipment for electrical work. Emphasis will be placed on practical applications, problem-solving, and preventive maintenance to ensure the reliable operation of industrial electrical systems. ",
       price: "₱9,000",
-      duration: '₱9,000',
+      duration: "48 Hours",
       link: "https://courselist.mfi.org.ph/courses/55",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhpjVy5TvcyaA1pBTcS6JZRrr88WLYLAx6Q&s"
     },
