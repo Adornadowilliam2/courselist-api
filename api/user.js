@@ -500,7 +500,7 @@ export default function handler(req, res) {
       name: "Full-stack Development Laravel + React (Hybrid Teaching Modality)",
       description: "is a comprehensive course designed to equip students with the skills needed to build dynamic web applications. The course covers Laravel for backend development, React for frontend development, and API integration between the two. Key topics include authentication, database management, state management, and deployment. Through hands-on projects and real-world applications, students will gain practical experience in full-stack development, preparing them for professional roles in web development.",
       price: "₱36,000",
-      duration: "₱36,000",
+      duration: "240 Hours",
       link: "https://courselist.mfi.org.ph/courses/3064",
       image: "https://miro.medium.com/v2/resize:fit:1024/0*oUyjZH6_leRq64sQ.png"
     },
